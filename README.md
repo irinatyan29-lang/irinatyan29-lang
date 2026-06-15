@@ -87,8 +87,8 @@ Currently expanding my expertise in Python, Scikit-learn, TensorFlow and real-wo
 
 ## 📫 Contacts
 
-💼 GitHub:
+💼 GitHub: https://github.com/irinatyan29-lang
 
-🏆 Kaggle: https://www.kaggle.com/eruhonya
+🏆 Kaggle: https://www.kaggle.com
 
 📧 Email: your_email@gmail.com
