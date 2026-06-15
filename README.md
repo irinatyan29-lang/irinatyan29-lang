@@ -70,7 +70,8 @@ Currently expanding my expertise in Python, Scikit-learn, TensorFlow and real-wo
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eruhonya&show_icons=true&theme=tokyonight)
+
+)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eruhonya&layout=compact&theme=tokyonight)
 
@@ -81,13 +82,12 @@ Currently expanding my expertise in Python, Scikit-learn, TensorFlow and real-wo
 - Build production-ready Machine Learning projects
 - Create an end-to-end ML portfolio
 - Improve Deep Learning skills
-- Participate in Kaggle competitions
 
 ---
 
 ## 📫 Contacts
 
-💼 GitHub: https://github.com/Eruhonya
+💼 GitHub:
 
 🏆 Kaggle: https://www.kaggle.com/eruhonya
 
