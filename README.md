@@ -105,14 +105,6 @@ Junior Data Scientist with a foundation in machine learning, data preprocessing,
 
 ---
 
-##  GitHub Stats
-
-<div align="center">
-
-![Irina's GitHub stats](https://github-readme-stats.vercel.app/api?username=IrinaTyan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IrinaTyan&layout=compact&theme=tokyonight&hide_border=true)
-
 </div>
 
 ---
