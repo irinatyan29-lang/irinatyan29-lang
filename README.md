@@ -30,7 +30,8 @@
 
 ## О себе
 
-Привет! Меня зовут Ирина. Я начинающий специалист в области Data Science, изучаю Machine Learning и Deep Learning. Сейчас я активно создаю своё портфолио, работая над практическими проектами, развиваю навыки в сфере искусственного интеллекта и анализа данных.
+Начинающий Data Scientist с интересом к машинному обучению, глубокому обучению, компьютерному зрению и ИИ-агентам. Развиваю практические навыки через реальные проекты и
+расширяю свои знания в области искусственного интеллекх.
 
 - Высшее образование по направлению «Менеджмент» (Московский технологический институт)
 - Прошла 15-месячную программу обучения уровня Junior в VeraVla edu
@@ -40,7 +41,8 @@
 
 ## About Me
 
-Hi! I'm Irina, a Junior Data Scientist passionate about Machine Learning and Deep Learning. I'm building my portfolio through hands-on projects and continuously expanding my skills in AI and data science.
+Junior Data Scientist with a foundation in machine learning, data preprocessing, exploratory data analysis, and predictive modeling. Skilled in Python based data analysis, feature engineering, and model evaluation through hands-on projects. Interested in applying AI, Computer Vision, and AI Agents to solve real-world problems with data-driven solutions.
+
 
 - Bachelor's degree in Management (Moscow Technological Institute)
 - Completed 15 months of Junior-level Data Science training at VeraVla edu
