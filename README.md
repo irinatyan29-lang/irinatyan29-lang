@@ -18,7 +18,7 @@
 ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
 ```
 
-### Irina Tyan · Junior Data Scientist & ML Engineer
+### Irina Tyan · Junior Data Scientist
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irina-tyan29?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
