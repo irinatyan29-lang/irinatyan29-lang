@@ -1,13 +1,3 @@
-<!-- Языковой переключатель / Language switcher -->
-<div align="center">
-
-[Русский](#-о-себе) &nbsp;|&nbsp; [English](#-about-me)
-
-</div>
-
----
-
-<div align="center">
 
 ### Irina Tyan · Junior Data Scientist
 
@@ -30,54 +20,9 @@
   
 ---
 
-## About Me
-
-Junior Data Scientist with a foundation in machine learning, data preprocessing, exploratory data analysis, and predictive modeling. Skilled in Python based data analysis, feature engineering, and model evaluation through hands-on projects. Interested in applying AI, Computer Vision, and AI Agents to solve real-world problems with data-driven solutions.
-
-
-- Bachelor's degree in Management (Moscow Technological Institute)
-- Completed 15 months of Junior-level Data Science training at VeraVla edu
-- Currently continuing my studies in the Senior-level program
-
----
-
-##  Tech Stack
-
-<div align="center">
-
 **Languages & Core**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-
-**ML / DL Frameworks**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-02B875?style=flat-uasqre)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=flat-square)
-![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=flat-square)
-![Gradient Boosting](https://img.shields.io/badge/Gradient_Boosting-8B0000?style=flat-square)
-![Linear Regression](https://img.shields.io/badge/Linear_Regression-4682B4?style=flat-square)
-![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-6A5ACD?style=flat-square)
-![Ensemble Methods](https://img.shields.io/badge/Ensemble_Methods-DAA520?style=flat-square)...
-
-**Data & Visualization**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=flat-square)...
-
-**Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat-square)...
-
-</div>
 
 ---
 
